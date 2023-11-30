@@ -1,3 +1,1 @@
-# SuperAGI Assignment
-
-GPT-2
+# MinGPT
